@@ -1,2 +1,3 @@
-# rust-chat-server
+# Rust Chat Server
+
 Chat server built with Rust
